@@ -43,7 +43,7 @@ export default function HeroSection() {
                       className='border-amex-dark flex h-10 w-10 items-center justify-center overflow-hidden rounded-full border-2 bg-gray-200'
                     >
                       <Image
-                        src={`/images/avatar-${num}.jpg`}
+                        src={`https://i.pravatar.cc/150?img=${num}`}
                         alt='Customer'
                         width={40}
                         height={40}
